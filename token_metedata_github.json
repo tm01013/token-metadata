@@ -1,0 +1,15 @@
+{
+    "name": "Black Cat coin",
+    "symbol": "BCC",
+    "description": "Created by tm01013.",
+    "image": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
